@@ -11,7 +11,7 @@ namespace DemoProject.Controllers
         // GET: DemoPage
         public string Index()
         {
-            return "Hello Welcome to MVCDemoSample";
+            return "I have learnt how to commit and push";
         }
     }
 }
