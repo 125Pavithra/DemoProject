@@ -9,9 +9,9 @@ namespace DemoProject.Controllers
     public class DemoPageController : Controller
     {
         // GET: DemoPage
-        public string Index()
+        public ActionResult Index()
         {
-            return "I have learnt how to commit and push";
+            return View();
         }
     }
 }
